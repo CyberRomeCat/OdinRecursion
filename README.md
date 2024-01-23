@@ -6,11 +6,11 @@ The project uses some various implementaions for recursion such as:
  sums up each number with the one before it
  ```
 function fibs() {
-  ///write code here
+  //write code here
 }
 
 fibs[4]
-///should return [0, 1, 1, 2] 
+ //should return [0, 1, 1, 2] 
  ```
 
 
